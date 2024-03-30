@@ -3,7 +3,7 @@ import styles from './layout.module.css'
 import utilStyles from '../../styles/utils.module.css'
 import Link from "next/link"
 
-export const siteTitle = 'Next.js Blog'
+export const siteTitle = 'シマエナガ Blog'
 
 const Layout = ({children, home}) => {
   const name = 'シマエナガ'
