@@ -6,7 +6,7 @@ import Link from "next/link"
 export const siteTitle = 'Next.js Blog'
 
 const Layout = ({children, home}) => {
-  const name = 'Shin code'
+  const name = 'シマエナガ'
 
   return (
     <div className={styles.container}>
